@@ -1,0 +1,22 @@
+body{
+    background-image: url('love.jpg');
+}
+.intro{
+    font-size: 20px;
+}
+.hers{
+    text-transform: uppercase;
+    font-size:4vw;
+    color:orange;
+}
+.attributes{
+    font-size: 25px;
+}
+#dear{
+    color:blue;
+    font-size:20 px;
+}
+blockquote{
+    font-size:25 px;
+    font-family: Noto Sans;
+}

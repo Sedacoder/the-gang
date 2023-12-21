@@ -1,0 +1,22 @@
+body{
+    background-image: url('spongebob.jpg');
+}
+.title{
+    color:navy;
+}
+p{
+    color:red;
+}
+ul{
+    color:white;
+}
+img{
+    height:300px;
+    width:200px;
+    object-fit: cover;
+    border-radius:10px;
+}
+blockquote{
+    font-size: 30px;
+    color:aqua;
+}
