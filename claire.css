@@ -1,0 +1,22 @@
+body{
+    background-image: url('claire.jpg');
+    background-size:contain;
+    color:white;
+}
+p{
+    font-size: 1.5em;
+}
+.speech{
+    font-family: "Lugrasimo" , cursive;
+    font-weight: 400px;
+    text-align: center;    
+}
+.images{
+    padding:2px;
+}
+img{
+    width:300px;
+    height:400px;
+    border-radius: 16px;
+    padding:5px;
+}
