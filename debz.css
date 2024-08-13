@@ -1,0 +1,45 @@
+body{
+    background-image:url('debzbg.jpg');
+    background-size: cover;
+    font-size:2em;
+    color:chartreuse;
+}
+h1{
+    color:brown;
+}
+h1:hover{
+    color:green;
+    transition:2s;
+}
+p{
+    color:white;
+}
+.opening{
+    text-align:center;
+    padding:10px;
+    border : 5px dashed cornflowerblue;
+    border-radius: 20px;
+}
+.keys{
+    color:gold;
+}
+.opening:hover{
+    color:darkcyan;
+    transition: 2s;
+    border-color: darkgoldenrod;
+}
+.keys:hover{
+    color:chocolate;
+}
+img{
+    width:300px;
+    height:400px;
+    object-fit:auto;
+    border-radius:16px;
+}
+#note{
+    color:darkkhaki;
+}
+#end{
+    color:lightseagreen;
+}
