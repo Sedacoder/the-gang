@@ -11,9 +11,9 @@ body{
 h1{
     padding-top:20px;
 }
-a .sean{
+.sean{
     text-transform:uppercase;
-    color:white
+    color:blue
 
 }
 .disclaimer{
@@ -162,6 +162,22 @@ a{
 .nakita:hover{
     color:yellow;
     border:2px solid #ff00f7 ;
+    transition:1s;
+}
+.debz{
+    display:flex;
+    width:100px;
+    height:30px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border-radius:25px;
+    text-decoration: none;
+    color:#fff;
+}
+.debz:hover{
+    color:brown;
+    border:2px solid green;
     transition:1s;
 }
 .nate{
